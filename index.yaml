@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sony:
+  - apiVersion: v2
+    appVersion: bus
+    created: "2026-07-31T10:31:14.751518689Z"
+    description: A Helm chart for Kubernetes
+    digest: 52b6621fbb6bc2b1d0f52594683d08b79b7fb69ae80f0416718e5cbee8f4ecd6
+    name: sony
+    type: application
+    urls:
+    - sony-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-07-31T10:31:14.751050308Z"
